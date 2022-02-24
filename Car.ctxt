@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=
+comment1.target=Car()
+comment2.params=make
+comment2.target=Car(java.lang.String)
+comment3.params=make\ model
+comment3.target=Car(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
